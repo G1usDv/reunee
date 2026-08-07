@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <clipPath id="logo-crop">
+      <circle cx="32" cy="32" r="29" />
+    </clipPath>
+    <linearGradient id="rim" x1="8" y1="8" x2="56" y2="56" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#d9ff4f" />
+      <stop offset=".48" stop-color="#57b7ff" />
+      <stop offset="1" stop-color="#9f7cff" />
+    </linearGradient>
+  </defs>
+  <circle cx="32" cy="32" r="31" fill="#090a13" />
+  <circle cx="32" cy="32" r="30" fill="url(#rim)" />
+  <image
+    href="https://ugc.production.linktr.ee/9d672c1b-ebb7-44f8-8255-1056cee5df94_yO9DxPY4JfYMZvkGm0a2jrE4bRwpUoopdJRbnB82lv1Sd-4viSOlHzke04lz1QW6COUEXgIC-s800-c-k-c0x00ffffff-no-rj.jpeg?io=true&amp;size=avatar-v3_0"
+    x="4" y="4" width="56" height="56"
+    preserveAspectRatio="xMidYMid slice"
+    clip-path="url(#logo-crop)"
+  />
+  <circle cx="32" cy="32" r="29" fill="none" stroke="#ffffff" stroke-opacity=".45" stroke-width=".65" />
+</svg>
