@@ -12,9 +12,9 @@
   <circle cx="32" cy="32" r="31" fill="#090a13" />
   <circle cx="32" cy="32" r="30" fill="url(#rim)" />
   <image
-    href="https://ugc.production.linktr.ee/9d672c1b-ebb7-44f8-8255-1056cee5df94_yO9DxPY4JfYMZvkGm0a2jrE4bRwpUoopdJRbnB82lv1Sd-4viSOlHzke04lz1QW6COUEXgIC-s800-c-k-c0x00ffffff-no-rj.jpeg?io=true&amp;size=avatar-v3_0"
-    x="4" y="4" width="56" height="56"
-    preserveAspectRatio="xMidYMid slice"
+    href="favicon-source.png"
+    x="-10.24" y="0" width="85.25" height="74.75"
+    preserveAspectRatio="none"
     clip-path="url(#logo-crop)"
   />
   <circle cx="32" cy="32" r="29" fill="none" stroke="#ffffff" stroke-opacity=".45" stroke-width=".65" />
